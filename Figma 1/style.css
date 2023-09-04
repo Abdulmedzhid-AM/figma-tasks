@@ -1,0 +1,127 @@
+body{
+    width: 720px;
+    margin: auto;
+    font-family: Times New Roman;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    background-color: #62BDEA; 
+    display: flex;
+    width: 720px;
+}
+.icon{
+    padding:10px 210px 10px 10px ;
+}
+.header-block{
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFF;
+    text-align: center;
+    padding-top: 14px;
+    font-weight: 400;
+}
+.content-links{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.links{
+    width: 180px;
+    height: 290px;
+    font-size: 16px;
+}
+.link-a{
+    list-style-type: none;
+    padding-left: 10px;
+    color: #000;
+}
+.content-img img{
+    width: 520px;
+    height: 290px;
+    display: block;
+}
+.line{
+    width: 180px;
+    border: 0.5px solid #000;
+    margin-top: 38px;
+}
+.frames{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.frame-full-access{
+    width: 130px;
+    height: 230px;
+    background-color: #62BDEA;
+}
+.frame-full-access-info{
+    width: 130px;
+    height: 60px;
+    margin-top: 85px;
+}
+.frame-full-access p{
+    color: #FFF;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 700;
+}
+.other-frames{
+    width: 530px;
+    height: 230px;
+}
+.instuction-frame{
+    width: 530px;
+    height: 95px;
+}
+.instuction-frame h2{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+}
+.instuction-frame p{
+    font-size: 14px;
+    width: 530px;
+    height: 75px;
+}
+.lower-frames-main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px;
+}
+.lower-frames{
+    width: 130px;
+    height: 100px;
+    background-color: #62BDEA;
+}
+.lower-frames-basic{
+    width: 140px;
+    height: 100px;
+    background-color: #62BDEA;
+}
+.lower-frames-info{
+    width: 130px;
+    height: 60px;
+}
+.lower-frames-info p{
+    color: #FFF;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 700;
+}
+.footer-block{
+    background-color: #62BDEA;
+    width: 720px;
+    height: 60px;
+    text-align: center;
+    margin-top: 30px;
+}
+.follow{
+    font-size: 16px;
+    font-weight: 800;
+    color: #FFF;
+    line-height: 60px;
+}
